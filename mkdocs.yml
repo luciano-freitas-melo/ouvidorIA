@@ -1,10 +1,10 @@
-site_name: Grupo 03 - OuvidorIA
+site_name: OuvidorIA — Assistente de Ouvidoria Pública para o Cidadão
 site_description: Documentação do projeto OuvidorIA
-site_url: https://unb-sistemas-de-machine-learning.github.io/grupo3-consulta-ouvidoria/
+site_url: https://luciano-freitas-melo.github.io/ouvidorIA/
 use_directory_urls: true
 
 
-repo_url: https://github.com/unb-Sistemas-de-Machine-learning/grupo3-consulta-ouvidoria
+repo_url: https://github.com/luciano-freitas-melo/ouvidorIA
 repo_name: grupo3-consulta-ouvidoria
 
 nav:
@@ -19,9 +19,6 @@ nav:
   - Engenharia de Dados:
     - Arquitetura: Dados/arquitetura.md
     - Coleta e Armazenamento de Dados: Dados/dados.md
-    - Métricas: Dados/metricas.md
-  - Resultados:
-    - Resultados: Resultados/resultados.md
     
 theme:
   name: material
