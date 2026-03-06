@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # OuvidorIA 
 
 Bem-vindo ao repositório do **OuvidorIA**, um assistente virtual inteligente projetado para simplificar e fortalecer a comunicação entre o cidadão e as ouvidorias públicas no Brasil.
@@ -19,8 +25,7 @@ Nossa solução é construída com uma abordagem *Retrieval-Augmented Generation
 * **Banco Vetorial:** Armazenamento e busca semântica de documentos processados utilizando `Qdrant`.
 * **Pipeline de Dados (ETL):** Web scraping inteligente com hash (MD5) e chunking de documentos para vetorização.
 
-![Diagrama de Arquitetura do MVP](images/arquitetura-mvp.png) 
-
+![Diagrama de Arquitetura do MVP](images/arquitetura-mvp.png){width="60%" style="display: block; margin: 0 auto"} 
 
 ## 👨‍💻 A Equipe
 

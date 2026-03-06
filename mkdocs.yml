@@ -5,7 +5,7 @@ use_directory_urls: true
 
 
 repo_url: https://github.com/luciano-freitas-melo/ouvidorIA
-repo_name: grupo3-consulta-ouvidoria
+repo_name: ouvidorIA
 
 nav:
   - Home: index.md
